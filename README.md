@@ -119,7 +119,7 @@ python manage.py runserver
 
 # 🌐 Live Demo
 
-https://YOUR-PYTHONANYWHERE-LINK
+https://brightsmileclinic.pythonanywhere.com/
 
 ---
 
