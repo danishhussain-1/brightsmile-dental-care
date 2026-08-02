@@ -94,10 +94,27 @@ python manage.py runserver
 
 ---
 
-# 📸 Screenshots
+## 📸 Screenshots
 
-Screenshots will be added soon.
+### 🏠 Home
 
+![Home](screenshots/home.png)
+
+### 🦷 Services
+
+![Services](screenshots/services.png)
+
+### 👨‍⚕️ Doctors
+
+![Doctors](screenshots/doctors.png)
+
+### 📅 Appointment
+
+![Appointment](screenshots/appointment.png)
+
+### 📞 Contact
+
+![Contact](screenshots/contact.png)
 ---
 
 # 🌐 Live Demo
