@@ -2,7 +2,7 @@
 
 A modern, responsive, and production-ready dental clinic website built with **Django**. This project provides a complete online platform for dental clinics, allowing patients to book appointments, explore dental services, read informative blogs, view doctor profiles, and contact the clinic through an elegant and user-friendly interface.
 
-🌐 **Live Demo:** https://YOUR-PYTHONANYWHERE-LINK
+🌐 **Live Demo:**https://brightsmile.pythonanywhere.com/
 
 ---
 
